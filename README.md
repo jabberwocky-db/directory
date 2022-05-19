@@ -53,3 +53,17 @@
   <a href="https://bundlephobia.com/package/@jabberwocky-db/tsconfig" target="_blank" >
     <img src="https://img.shields.io/bundlephobia/min/@jabberwocky-db/tsconfig?style=for-the-badge&color=teal"/>
   </a>
+
+## Node tsconfig
+<a href="https://www.npmjs.com/package/@jabberwocky-db/tsconfig-node" target="_blank" >
+        <img src="https://img.shields.io/npm/v/@jabberwocky-db/tsconfig-node.svg?color=white&style=for-the-badge" />
+  </a>
+  <a href="https://libraries.io/npm/@jabberwocky-db%2Ftsconfig-node" target="_blank" >
+    <img alt="License: MIT" src="https://img.shields.io/librariesio/release/npm/@jabberwocky-db/tsconfig-node?style=for-the-badge" />
+  </a>
+  <a href="https://www.npmjs.com/package/@jabberwocky-db/tsconfig-node" target="_blank" >
+    <img alt="downloads" src="https://img.shields.io/npm/dm/@jabberwocky-db/tsconfig-node.svg?color=purple&style=for-the-badge"/>
+  </a>
+  <a href="https://bundlephobia.com/package/@jabberwocky-db/tsconfig-node" target="_blank" >
+    <img src="https://img.shields.io/bundlephobia/min/@jabberwocky-db/tsconfig-node?style=for-the-badge&color=teal"/>
+  </a>
