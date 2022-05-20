@@ -67,3 +67,17 @@
   <a href="https://bundlephobia.com/package/@jabberwocky-db/tsconfig-node" target="_blank" >
     <img src="https://img.shields.io/bundlephobia/min/@jabberwocky-db/tsconfig-node?style=for-the-badge&color=teal"/>
   </a>
+
+## Rollup Config
+<a href="https://www.npmjs.com/package/@jabberwocky-db/rollup-config" target="_blank" >
+        <img src="https://img.shields.io/npm/v/@jabberwocky-db/rollup-config.svg?color=white&style=for-the-badge" />
+  </a>
+  <a href="https://libraries.io/npm/@jabberwocky-db%2Frollup-config" target="_blank" >
+    <img alt="License: MIT" src="https://img.shields.io/librariesio/release/npm/@jabberwocky-db/rollup-config?style=for-the-badge" />
+  </a>
+  <a href="https://www.npmjs.com/package/@jabberwocky-db/rollup-config" target="_blank" >
+    <img alt="downloads" src="https://img.shields.io/npm/dm/@jabberwocky-db/rollup-config.svg?color=purple&style=for-the-badge"/>
+  </a>
+  <a href="https://bundlephobia.com/package/@jabberwocky-db/rollup-config" target="_blank" >
+    <img src="https://img.shields.io/bundlephobia/min/@jabberwocky-db/rollup-config?style=for-the-badge&color=teal"/>
+  </a>
